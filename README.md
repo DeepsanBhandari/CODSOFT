@@ -78,7 +78,7 @@ Clone the Repository:
 
 bash
 Copy
-git clone https://github.com/your-username/CODSOFT.git
+git clone https://github.com/DeepsanBhandari/CODSOFT
 Navigate to the repository folder:
 
 bash
